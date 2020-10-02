@@ -14,7 +14,7 @@ File name: Coursera_Capstone_presentation.pdf
 
 **Jupyter Notebook**
 
-File name: Coursera_Captstone_report.ipynb
+File name: Coursera_Captstone.ipynb
 
 **Tableau Visualization**
 [https://public.tableau.com/profile/...](url)
