@@ -2,7 +2,7 @@
 **Car Accident Severity Data analysis for Seattle**
 
 
-This report will be used for the capstone project for IBM Applied Data Science Capstone course on Coursera.
+This repo will be used for the capstone project for IBM Applied Data Science Capstone course on Coursera.
 
 **Full Report**
 
